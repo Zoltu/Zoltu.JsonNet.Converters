@@ -6,6 +6,7 @@
 		<authors>$author$</authors>
 		<description>$description$</description>
 		<language>en-US</language>
+		<iconUrl>https://blob.zoltu.com/images/zoltu-icon-64x64.png</iconUrl>
 		<projectUrl>https://github.com/Zoltu/Zoltu.JsonNet.Converters</projectUrl>
 		<licenseUrl>https://github.com/Zoltu/Zoltu.JsonNet.Converters/blob/master/LICENSE</licenseUrl>
 		<tags>json.net json unix time stamp timestamp unixtime unixtimestamp datetime datetimeoffset timespan milliseconds seconds</tags>
